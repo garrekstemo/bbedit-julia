@@ -6,8 +6,8 @@ a function menu in BBEdit.
 ## Install
 
 ```sh
-git clone https://github.com/garrekstemo/julia-bbedit.git
-cd julia-bbedit
+git clone https://github.com/garrekstemo/bbedit-julia.git
+cd bbedit-julia
 ./install.sh
 ```
 
